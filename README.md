@@ -11,10 +11,13 @@
 <a href="https://www.instagram.com/kshitizgoel07/?hl=en">
   <img align="left" alt="Kshitiz Goel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/arpit.goel.9212/">
+  <img align="left" alt="Kshitiz Goel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <a href="https://twitter.com/kshitizgoel07">
   <img align="left" alt="Kshitiz Goel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<br/>
 [![Kshitiz's github stats](https://github-readme-stats.vercel.app/api?username=kshitiz-goel07&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
