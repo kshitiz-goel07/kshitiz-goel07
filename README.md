@@ -17,6 +17,7 @@
 <a href="https://twitter.com/kshitizgoel07">
   <img align="left" alt="Kshitiz Goel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 [![Kshitiz's github stats](https://github-readme-stats.vercel.app/api?username=kshitiz-goel07&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
